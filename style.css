@@ -526,6 +526,16 @@ h1{
         font-size: 14px;    
     }
 }
+@media screen and (max-width: 500px) {
+    .recomendacion-img{
+        height: 4rem;
+        width: 4rem;
+    }
+    .carta-rec-text{
+        font-size: 11px;    
+    }
+}
+
 /*Adaptabilidad para Pantallas menores a 350px*/
 @media screen and (max-width: 350px){
     .recomendacion-img{
