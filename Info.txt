@@ -1,0 +1,36 @@
+Información:
+name: Sammuel Watts
+
+email address: samuel.watts@example.com
+
+birthday: 9/3/1948
+
+phone number: (788) 357-2713
+
+address: 3280 Mcgowen St
+
+password:747474
+
+
+proyectos
+Fuentes
+proyecto1: amarilio.com.mx
+
+proyecto2: www.virtualnauta.com
+
+proyecto3: www.nutecoweb.com
+
+proyecto4: www.ntxpro.net
+
+proyecto5: www.damos.co
+
+proyecto6: gendigital.pe
+
+
+clientes-Información
+1- Cristina Ramirez
+cristinara_flower1@example.com
+2- Sebastian Fernández
+sebastianfern@example.com
+3- Willard Robertson
+willard_robertson@example.com
